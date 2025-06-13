@@ -1,0 +1,3 @@
+Olá, me chamo Pedro Borba e estudo programação há 11 meses, estou vindo de uma transição de carreira, atualmente estou cursando ADS e também estou em busca do meu primeiro estágio na área, sou amante dos games, animes e pets(tenho um golden).
+
+Desenvolvedor em transição do Front-End para o Back-End, com experiência em Angular, APIs REST, PostgreSQL e MySQL. Atualmente focado em Java, Spring Boot e orientação a objetos. Busco aplicar e expandir meus conhecimentos em projetos escaláveis, com foco em boas práticas, arquitetura e trabalho em equipe. Sou movido por desafios, aprendizado contínuo e evolução constante como profissional de tecnologia.
